@@ -1,8 +1,8 @@
 ### Olá! Bem-Vindo! 👋
 
 
-- 🔭 Hoje trabalho como analista de sistemas.
-- 🌱 Estudando programação
+- 🔭 Analista de sistemas.
+- 🌱 Estudando programação na DH
 - ✉️ Contato: diego.brito.a@gmail.com
 
 <div align="center">
